@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshit%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=1,2&height=180&section=header&text=Harshit%20Singh&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=32"/>
 
 <!-- Typing Animation with Multiple Lines -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&vCenter=true&width=600&height=100&duration=4000&lines=Full+Stack+Developer+%F0%9F%92%BB;Blockchain+Pioneer+%F0%9F%94%97;Web3+Innovator+%F0%9F%9A%80;Coffee+%E2%86%92+Code+Alchemist+%E2%98%95" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=58A6FF&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Blockchain+Pioneer+%F0%9F%94%97;Web3+Innovator+%F0%9F%9A%80;Coffee+%E2%86%92+Code+Alchemist+%E2%98%95" alt="Typing SVG"/>
 
 <!-- Professional Subtitle -->
 <h3 align="center">
