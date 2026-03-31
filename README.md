@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=24292e&height=100&section=header&text=Harshit%20Singh&fontSize=32&fontColor=ffffff&fontAlignY=45"/>
 
 <!-- Typing Animation with Multiple Lines -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&size=28&color=ffffff&vCenter=true&width=600&height=40&lines=Building+the+Future+of+Web3;Full+Stack+Architecture" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=30&weight=500&color=73daca&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Blockchain+Pioneer;Web3+Innovator" alt="Typing SVG"/>
 
 <!-- Professional Subtitle -->
 <h3 align="center">
@@ -300,7 +300,6 @@ If you find my work helpful, consider supporting me:
 **Show some ❤️ by starring repositories you find interesting!**
 
 *"The best way to predict the future is to invent it."* - Alan Kay
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=50&section=footer"/>
 
 </div>
