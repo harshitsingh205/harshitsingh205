@@ -4,8 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=24292e&height=100&section=header&text=Harshit%20Singh&fontSize=32&fontColor=ffffff&fontAlignY=45"/>
 
 <!-- Typing Animation with Multiple Lines -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=30&weight=500&color=73daca&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Blockchain+Pioneer;Web3+Innovator" alt="Typing SVG"/>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&duration=3500&pause=1000&color=73daca&center=true&vCenter=true&width=450&height=50&lines=Full+Stack+Developer;Blockchain+Pioneer;Web3+Innovator" alt="Typing SVG" />
+</p>
 <!-- Professional Subtitle -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
